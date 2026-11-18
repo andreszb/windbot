@@ -39,7 +39,8 @@ Source: <https://note.com/uni928928/n/nffec8fab44ef>, corrected against the card
 (`ygopro-scripts/c<id>.lua`). The article says Toon Table of Contents adds Comic Cat; it does
 not. ToC only adds cards in the `Toon` set (`0x62`): Perfect Toon World, Toon Bookmark, Toon
 Terror, itself. Perfect Toon World's search and Toon Bookmark add cards that *mention* Toon
-World (Comic Cat, Evil Box, Funny Dark Rabbit).
+World (Comic Cat, Evil Box, Funny Dark Rabbit). Full write-up with sources, differences from
+them and a step-to-code table: [combo/funny-dark-rabbit-main-line.md](combo/funny-dark-rabbit-main-line.md).
 
 1. Funny Dark Rabbit Normal Summoned, places Perfect Toon World from the Deck.
 2. Perfect Toon World searches, priority: Comic Cat, Evil Box, Toon Terror, Funny Dark Rabbit,
